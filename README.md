@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, ich bin Artur 👋
 
-<!--
-**A-Marbach/A-Marbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer (Angular & TypeScript)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Über mich
+
+Ich entwickle moderne Single-Page-Applications mit Fokus auf Performance, saubere Architektur und gute UX.  
+Erfahrung mit Angular, APIs und skalierbaren Frontend-Strukturen.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- Angular
+- TypeScript
+- JavaScript
+- HTML, CSS (SCSS)
+
+**Backend & APIs**
+- Firebase
+- REST APIs
+
+**Tools**
+- Git / GitHub
+- Docker
+- CI/CD

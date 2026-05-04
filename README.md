@@ -1,29 +1,8 @@
-# Hi, ich bin Artur 👋
-
-💻 Front-End Developer (Angular & TypeScript)
-
----
-
-## 🚀 Über mich
-
-Ich entwickle moderne Single-Page-Applications mit Fokus auf Performance, saubere Architektur und gute UX.  
-Erfahrung mit Angular, APIs und skalierbaren Frontend-Strukturen.
-
----
-
-## 🛠 Tech Stack
-
-**Frontend**
-- Angular
-- TypeScript
-- JavaScript
-- HTML, CSS (SCSS)
-
-**Backend & APIs**
-- Firebase
-- REST APIs
-
-**Tools**
-- Git / GitHub
-- Docker
-- CI/CD
+* Hi, I'm Artur
+* Junior DevOps / Cloud Engineer | Kubernetes | Docker
+* DevSecOps: Gitleaks, Hadolint, Trivy, Grafana
+* Linux | Bash | Git / GitHub
+* Building secure, scalable cloud infrastructure
+* Frontend: Angular, TypeScript, REST APIs
+* Open for teamwork & collaborative projects
+* Reach me here on GitHub - coding every day

@@ -1,5 +1,5 @@
 * Hi, I'm Artur
-* Junior DevOps / Cloud Engineer | Kubernetes | Docker
+* Junior DevSecOps / Cloud Engineer | Docker
 * DevSecOps: Gitleaks, Hadolint, Trivy, Grafana
 * Linux | Bash | Git / GitHub
 * Building secure, scalable cloud infrastructure

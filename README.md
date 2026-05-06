@@ -1,6 +1,6 @@
 # Hi, I'm Artur
 
-## Junior DevSecOps / Cloud Engineer**
+## Junior DevSecOps / Cloud Engineer
 
 ### 🔧 DevOps Stack
 Automated CI/CD Pipelines | Docker & Containerization | Kubernetes | GitHub Actions | Security-First DevOps

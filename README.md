@@ -1,8 +1,17 @@
-Hi, I'm Artur
-Junior DevSecOps / Cloud Engineer
+# Hi, I'm Artur
 
-🔧 Docker | Kubernetes (minikube) | Linux | Bash | GitHub
-🔒 DevSecOps: Gitleaks, Hadolint, Trivy, Grafana
-☁️ Building secure, scalable cloud infrastructure
+**Junior DevSecOps / Cloud Engineer**
 
-Frontend: Angular, TypeScript | Open for collaboration 
+### 🔧 DevOps Stack
+Docker | Kubernetes (minikube) | Linux | Bash | GitHub
+
+### 🔒 DevSecOps Tools
+Gitleaks | Hadolint | Trivy | Grafana
+
+### ☁️ Mission
+Building secure, scalable cloud infrastructure
+
+---
+
+**Frontend:** Angular, TypeScript  
+**Open for:** Collaboration & teamwork

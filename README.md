@@ -6,7 +6,7 @@
 Docker | Kubernetes (minikube) | Linux | Bash | GitHub
 
 ### 🔒 DevSecOps Tools
-Gitleaks | Hadolint | Trivy | Grafana
+Kali Linux | OWASP Top 10 | Gitleaks | Hadolint | Trivy | Grafana
 
 ### ☁️ Mission
 Building secure, scalable cloud infrastructure

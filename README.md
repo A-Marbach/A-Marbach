@@ -3,7 +3,7 @@
 ## Junior DevSecOps / Cloud Engineer
 
 ### 🔧 DevOps Stack
-Automated CI/CD Pipelines | Docker & Containerization | Kubernetes | GitHub Actions | Security-First DevOps
+Automated CI/CD | Docker & Containerization | Kubernetes (minikube) | GitHub Actions | Security-First DevOps
 
 ### 🔒 DevSecOps Tools
 Kali Linux | OWASP Top 10 | Gitleaks | Hadolint | Trivy | Grafana

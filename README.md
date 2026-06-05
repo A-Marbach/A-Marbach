@@ -15,6 +15,7 @@ Prometheus | Grafana | CI/CD Pipelines (GitHub Actions)
 Automated Deployments | Containerization | Basic Kubernetes (minikube)
 
 📁 Projects
+
 • Dockerized applications with CI/CD pipelines (GitHub Actions)
 • Linux VM deployments with monitoring (Prometheus & Grafana)
 • Kubernetes (minikube) experiments with containerized apps

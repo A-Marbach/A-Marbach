@@ -1,17 +1,24 @@
-# Hi, I'm Artur
+Hi, I'm Artur
 
-## Junior DevSecOps / Cloud Engineer
+Junior DevOps / Linux Engineer
 
-### 🔧 DevOps Stack
-Automated CI/CD | Docker & Containerization | Kubernetes (minikube) | GitHub Actions | Security-First DevOps
+🔧 Core Skills
+Linux (Debian, Ubuntu) | Docker | Git | GitHub Actions
 
-### 🔒 DevSecOps Tools
-Kali Linux | OWASP Top 10 | Gitleaks | Hadolint | Trivy | Grafana
+🖥️ Infrastructure & Operations
+Linux Server Administration | SSH | User & Permissions
+Deployment on Linux VMs | Docker Compose
 
-### ☁️ Mission
-Building secure, scalable cloud infrastructure
+📊 Monitoring & Automation
+Prometheus | Grafana | CI/CD Pipelines (GitHub Actions)
 
----
+☁️ DevOps Practices
+Containerization | Automated Deployments | Basic Kubernetes (minikube)
 
-**Frontend:** Angular, TypeScript  
-**Open for:** Collaboration & teamwork
+🔒 Security Awareness
+OWASP Top 10 | Container Security Basics
+
+📁 Projects
+• Fullstack apps with Docker & CI/CD pipelines
+• Linux VM deployments with monitoring
+• Kubernetes (minikube) experiments

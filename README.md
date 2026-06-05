@@ -1,24 +1,20 @@
 Hi, I'm Artur
 
-Junior DevOps / Linux Engineer
+Junior Linux / DevOps Engineer
 
-🔧 Core Skills
-Linux (Debian, Ubuntu) | Docker | Git | GitHub Actions
+🔧 Linux & Infrastructure
+Linux (Debian, Ubuntu) | SSH | User & Permissions | Docker | Git
 
-🖥️ Infrastructure & Operations
-Linux Server Administration | SSH | User & Permissions
-Deployment on Linux VMs | Docker Compose
+🖥️ System Administration
+Linux Server Administration | Deployment on Linux VMs | Docker Compose
 
-📊 Monitoring & Automation
+📊 Monitoring & Operations
 Prometheus | Grafana | CI/CD Pipelines (GitHub Actions)
 
-☁️ DevOps Practices
-Containerization | Automated Deployments | Basic Kubernetes (minikube)
-
-🔒 Security Awareness
-OWASP Top 10 | Container Security Basics
+☁️ DevOps Basics
+Automated Deployments | Containerization | Basic Kubernetes (minikube)
 
 📁 Projects
-• Fullstack apps with Docker & CI/CD pipelines
-• Linux VM deployments with monitoring
-• Kubernetes (minikube) experiments
+• Dockerized applications with CI/CD pipelines (GitHub Actions)
+• Linux VM deployments with monitoring (Prometheus & Grafana)
+• Kubernetes (minikube) experiments with containerized apps

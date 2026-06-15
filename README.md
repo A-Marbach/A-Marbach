@@ -22,6 +22,6 @@ Automated Deployments | Containerization | Basic Kubernetes (minikube)
 
 • Dockerized applications with CI/CD pipelines (GitHub Actions)
 
-• Linux VM deployments with monitoring (Prometheus & Grafana)
+• Linux VM deployments with Docker Compose, monitoring (Prometheus & Grafana) and automated CI/CD workflows
 
 • Kubernetes (minikube) experiments with containerized apps

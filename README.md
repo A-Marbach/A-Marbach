@@ -14,7 +14,7 @@ Linux Server Administration | Deployment on Linux VMs | Docker Compose
 
 Prometheus | Grafana | CI/CD Pipelines (GitHub Actions)
 
-☁️ DevOps Basics
+☁️ DevOps 
 
 Automated Deployments | Containerization | Basic Kubernetes (minikube)
 

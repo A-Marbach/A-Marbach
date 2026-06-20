@@ -4,24 +4,12 @@ Junior Linux / DevOps Engineer
 
 🔧 Linux & Infrastructure
 
-Linux (Debian, Ubuntu) | SSH | User & Permissions | Docker | Git
-
-🖥️ System Administration
-
-Linux Server Administration | Deployment on Linux VMs | Docker Compose
+Linux (Ubuntu, Debian) | SSH | Terraform | Ansible | Docker | Git
 
 📊 Monitoring & Operations
 
-Prometheus | Grafana | CI/CD Pipelines (GitHub Actions)
+Prometheus | Grafana | CI/CD (GitHub Actions)
 
-☁️ DevOps 
+☁️ DevOps
 
-Automated Deployments | Containerization | Basic Kubernetes (minikube)
-
-📁 Projects
-
-• Dockerized applications with CI/CD pipelines (GitHub Actions)
-
-• Linux VM deployments with Docker Compose, monitoring (Prometheus & Grafana) and automated CI/CD workflows
-
-• Kubernetes (minikube) experiments with containerized apps
+Infrastructure as Code | Automation | Containerization | Kubernetes (minikube)

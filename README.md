@@ -1,10 +1,13 @@
-Hi, I'm Artur
+# Hi, I'm Artur
 
-Junior Linux / DevOps Engineer
+### Linux System Administrator
 
+Building and operating Linux-based infrastructure with hands-on experience in Docker, Terraform, Ansible, GitHub Actions, Prometheus, and Grafana.
 
-Linux (Ubuntu, Debian) | SSH | Terraform | Ansible | Docker | Git
+**Tech Stack**
 
-Prometheus | Grafana | CI/CD (GitHub Actions)
+Linux (Ubuntu, Debian) • Bash • SSH • NGINX
 
-Infrastructure as Code | Automation | Containerization | Kubernetes (minikube)
+Docker • Terraform • Ansible • Git • GitHub Actions
+
+Prometheus • Grafana • Kubernetes (minikube)

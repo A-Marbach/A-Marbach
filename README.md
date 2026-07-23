@@ -1,13 +1,15 @@
-# Hi, I'm Artur
+# Hi, I'm Artur 👋
 
-### Linux System Administrator
+### Linux System Administrator | Infrastructure & DevOps
 
-Building and operating Linux-based infrastructure with hands-on experience in Docker, Terraform, Ansible, GitHub Actions, Prometheus, and Grafana.
+Building and operating Linux-based infrastructure with hands-on experience in Docker, Kubernetes (k3s), Terraform, Ansible, GitHub Actions, Prometheus, and Grafana.
 
-**Tech Stack**
+## Tech Stack
 
 Linux (Ubuntu, Debian) • Bash • SSH • NGINX
 
-Docker • Terraform • Ansible • Git • GitHub Actions
+Docker • Kubernetes (k3s) • Terraform • Ansible
 
-Prometheus • Grafana • Kubernetes (minikube)
+Git • GitHub Actions
+
+Prometheus • Grafana

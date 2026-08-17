@@ -1,15 +1,31 @@
 # Hi, I'm Artur 👋
 
-### Linux Administrator | Infrastructure & DevOps
+### Linux | IT Operations | Cloud & DevOps
 
-Building and operating Linux-based infrastructure with hands-on experience in Docker, Kubernetes (k3s), Terraform, Ansible, GitHub Actions, Prometheus, and Grafana.
+I build and operate Linux-based infrastructure, automate deployments, and work with cloud environments using modern automation and DevOps practices.
 
 ## Tech Stack
 
-Linux (Ubuntu, Debian) • Bash • SSH • NGINX
+### Linux & Operations
+Ubuntu · Debian · Bash · SSH · NGINX
 
-Docker • Kubernetes (k3s) • Terraform • Ansible
+### Cloud & Infrastructure
+AWS · Terraform · Ansible
 
-Git • GitHub Actions
+### Containers & Automation
+Docker · Docker Compose · Kubernetes (k3s)
 
-Prometheus • Grafana
+### CI/CD & Version Control
+Git · GitHub · GitHub Actions
+
+### Monitoring
+Prometheus · Grafana
+
+## Focus
+
+- Linux Administration
+- IT Operations
+- System Administration
+- Cloud Infrastructure
+- Infrastructure Automation
+- Junior DevOps

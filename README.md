@@ -1,28 +1,36 @@
-A-Marbach/README.md
-Hi, I'm Artur 
-Linux | IT Operations | Cloud & DevOps
-I build and operate Linux-based infrastructure, automate deployments, and work with cloud environments using modern automation and DevOps practices.
+# Hi, I'm Artur 👋
 
-Tech Stack
-Linux & Operations
-Ubuntu · Debian · Bash · SSH · NGINX
+## Linux Administration | IT Operations
 
-Cloud & Infrastructure
-AWS · Terraform · Ansible
+I work with Linux-based infrastructure, server administration, troubleshooting and automation.
 
-Containers & Automation
-Docker · Docker Compose · Kubernetes (k3s)
+My focus is on operating and securing Ubuntu servers, automating recurring tasks with Ansible and Terraform, and monitoring infrastructure with Prometheus and Grafana.
 
-CI/CD & Version Control
+## Tech Stack
+
+### Linux & Operations
+Ubuntu · Debian · Bash · SSH · systemd · NGINX · Fail2Ban
+
+### Networking
+TCP/IP · DNS · Firewalls · Routing Basics
+
+### Automation & Infrastructure
+Ansible · Terraform · AWS · Hetzner Cloud
+
+### Containers
+Docker · Docker Compose
+
+### Monitoring
+Prometheus · Grafana · CloudWatch
+
+### Tools
 Git · GitHub · GitHub Actions
 
-Monitoring
-Prometheus · Grafana
+## Focus
 
-Focus
-Linux Administration
-IT Operations
-System Administration
-Cloud Infrastructure
-Infrastructure Automation
-Junior DevOps
+- Linux Administration
+- IT Operations
+- System Administration
+- Server Automation
+- Infrastructure Monitoring
+- Cloud Infrastructure

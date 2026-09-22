@@ -2,51 +2,21 @@
 
 ## Junior DevOps Engineer | Linux & Cloud Infrastructure
 
-I build and automate cloud infrastructure with Linux, Docker, Terraform, Ansible, AWS and CI/CD.
-
-My focus is on Infrastructure as Code, configuration management, containerized deployments, monitoring and reliable operations.
+I build and automate infrastructure with Linux, Terraform, Ansible, Docker, AWS and CI/CD.
 
 ## Tech Stack
 
-### Linux & Scripting
-Ubuntu · Debian · Bash · Python · SSH · systemd
+**Linux:** Ubuntu · Debian · Bash · SSH · systemd  
+**Cloud & IaC:** AWS · Terraform · Ansible · Hetzner Cloud  
+**Containers:** Docker · Docker Compose · Kubernetes · k3s  
+**CI/CD:** Git · GitHub · GitHub Actions  
+**Monitoring:** Prometheus · Grafana · CloudWatch  
+**Scripting:** Bash · Python
 
-### Infrastructure as Code & Automation
-Terraform · Ansible
+## Focus
 
-### Cloud
-AWS · Hetzner Cloud
-
-### Containers & Orchestration
-Docker · Docker Compose · Kubernetes · k3s · Helm
-
-### CI/CD & Version Control
-Git · GitHub · GitHub Actions
-
-### Monitoring & Observability
-Prometheus · Grafana · CloudWatch
-
-### Networking & Security
-TCP/IP · DNS · VPC · Security Groups · Firewalls · NGINX · Fail2Ban
-
-## Project Focus
-
-- Cloud Infrastructure
+- DevOps & Cloud Infrastructure
 - Infrastructure as Code
-- Configuration Management
-- CI/CD Pipelines
-- Containerized Deployments
-- Kubernetes Infrastructure
-- Monitoring & Observability
+- CI/CD & Automation
 - Linux Administration
-
-## Featured Projects
-
-### Vikunja on AWS ECS Fargate
-AWS infrastructure built with Terraform using ECS Fargate, RDS PostgreSQL, S3, Secrets Manager, CloudWatch and SNS.
-
-### Conduit AWS Infrastructure
-AWS infrastructure with Terraform, Ansible, Docker, GitHub Actions and CloudWatch.
-
-### k3s Infrastructure
-Multi-node Kubernetes cluster on Hetzner Cloud using Terraform, Ansible, Helm, Traefik, cert-manager and Prometheus/Grafana.
+- Monitoring & Observability
